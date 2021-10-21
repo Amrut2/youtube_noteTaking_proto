@@ -1,0 +1,49 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container{
+  display: flex;
+  width:100vw;
+  height: 100vh;
+  background-color: aquamarine;
+  align-items: center;
+  justify-content: flex;
+
+
+}
+
+.screen{
+  display: flex;
+  height: 80vh;
+  width: 60vw;
+  /* border: 1px solid rgb(5, 0, 0); */
+  background-color:rgb(255, 72, 66);
+  margin-left: 7px;
+  box-shadow: 0 0 20px rgba(2, 26, 41,0.9);
+  
+
+}
+
+
+
+.vid{
+  width:100%;
+  height:100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color:rgb(3, 50, 79);
+}
+
+
+.imgages{
+  height:98%;
+  width: 99%;
+
+  
+}
+
+
